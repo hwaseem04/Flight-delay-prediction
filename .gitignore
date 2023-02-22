@@ -5,6 +5,8 @@
 2016/
 2017/
 Weather/
+cleaned_data.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
